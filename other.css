@@ -1,0 +1,80 @@
+.body {
+  background-color: #f1f1f1;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.card {
+  background-color: #f1f1f1f1;
+  margin: 100px auto;
+  max-width: 400px;
+  border-radius: 10%;
+  padding: 30px 50px 50px;
+  width: 100%;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+.logo {
+  max-height: 150px;
+  width: auto;
+  margin: auto;
+  display: block;
+  padding: 20px;
+}
+.form {
+  padding: 20px;
+  background-color: #f1f1f1;
+  border-radius: 10%;
+}
+
+.username {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+  box-shadow: 0 0 15px 4px rgba(0, 0, 0, 0.06);
+}
+
+.password {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+  box-shadow: 0 0 15px 4px rgba(0, 0, 0, 0.06);
+}
+
+.btn {
+  background-color: #01796f;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px auto;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+}
+
+.message {
+  text-align: center;
+  margin: 10px 0 0;
+  color: #01796f;
+  font-size: 12px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.message a {
+  text-decoration: underline;
+  color: #01796f;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.form-input {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+  box-shadow: 0 0 15px 4px rgba(0, 0, 0, 0.06);
+}
